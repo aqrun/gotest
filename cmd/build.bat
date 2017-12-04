@@ -1,0 +1,1 @@
+E:\goprojects\bin\go-bindata.exe -pkg web -o web/bindata.go ./assets ./templates
